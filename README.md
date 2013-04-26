@@ -1,11 +1,11 @@
 Fraud Killer
 ============
 
-*link protection service against fake ips,proxy,referers,countries,browsers,devices
-*Uniquely identifies user
-*Cross Browser detection
-*Browser footprint technology
-*Url tokens,Page rotations
+* link protection service against fake ips,proxy,referers,countries,browsers,devices
+* Uniquely identifies user
+* Cross Browser detection
+* Browser footprint technology
+* Url tokens,Page rotations
 
 System spec
 ===========
