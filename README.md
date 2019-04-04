@@ -19,9 +19,3 @@ Important
 
 This Fraud killer php script will not function by just using this source on github. It should be configured with API server
 as well as some css,js,images.
-
-Please contact the developer if really want to setup this unique 'fraud killer" script
-
-email: 000vaibhav000@gmail.com
-
-skype: vaibhavchris
